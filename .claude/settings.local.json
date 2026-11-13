@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__chiron-memory__memory_search",
+      "mcp__chiron-memory__memory_canonical"
+    ]
+  }
+}
